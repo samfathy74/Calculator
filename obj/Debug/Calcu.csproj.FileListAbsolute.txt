@@ -1,0 +1,17 @@
+c:\users\m lapan\documents\visual studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.exe.config
+c:\users\m lapan\documents\visual studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.exe
+c:\users\m lapan\documents\visual studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.pdb
+c:\users\m lapan\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.Properties.Resources.resources
+c:\users\m lapan\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.csproj.GenerateResource.Cache
+c:\users\m lapan\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.exe
+c:\users\m lapan\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.pdb
+C:\Users\M Lapan\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.Calculate.resources
+C:\Users\M Lapan\documents\visual studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.csprojResolveAssemblyReference.cache
+C:\Users\SM\Documents\Visual Studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.exe.config
+C:\Users\SM\Documents\Visual Studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.pdb
+C:\Users\SM\Documents\Visual Studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\SM\Documents\Visual Studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.Calculate.resources
+C:\Users\SM\Documents\Visual Studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.Properties.Resources.resources
+C:\Users\SM\Documents\Visual Studio 2015\Projects\Calcu\Calcu\obj\Debug\Calcu.csproj.GenerateResource.Cache
